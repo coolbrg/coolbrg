@@ -1,6 +1,16 @@
 ![alt text](./images/cover.png)
 
+## Checkout my personal portfolio website
+
+[Freelancer BRG](https://freelancerbrg.com)
+
+## Connect to the developer groups I maintain
+
+- [Self-taught IT Engineers](https://www.facebook.com/groups/selftaughtitengineers/)
+- [Self-taught IT Students](https://www.facebook.com/groups/selftaughtitstudents/)
+
 ### Let's Connect :coffee:
+
 <p align="center">
 	<a href="https://github.com/coolbrg"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/coolbrg/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
