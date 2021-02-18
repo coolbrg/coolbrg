@@ -1,8 +1,9 @@
 ![alt text](./images/cover.png)
 
-## Checkout my personal portfolio website
+## Checkout important links
 
-[Freelancer BRG](https://freelancerbrg.com)
+- [BRG Classes](https://brgclasses.com)
+- [Freelancer BRG (personal website)](https://freelancerbrg.com)
 
 ## Connect to the developer groups I maintain
 
