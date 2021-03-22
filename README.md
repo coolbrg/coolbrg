@@ -1,7 +1,15 @@
 ![alt text](./images/cover.png)
 
+<a href="https://twitter.com/coolbrg">
+  <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/coolbrg?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="https://github.com/coolbrg">
+   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/coolbrg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+</a>
+
 ## Checkout important links
 
+- [Project Vidyalaya](https://projectvidyalaya.org)
 - [BRG Classes](https://brgclasses.com)
 - [Freelancer BRG (personal website)](https://freelancerbrg.com)
 
