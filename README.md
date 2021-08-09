@@ -1,7 +1,7 @@
 ![alt text](./images/cover.jpg)
 
-<a href="https://twitter.com/coolbrg">
-  <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/coolbrg?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+<a href="https://twitter.com/mentorbrg">
+  <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/mentorbrg?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="https://github.com/coolbrg">
    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/coolbrg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
@@ -24,8 +24,8 @@
 
 <p align="center">
 	<a href="https://github.com/coolbrg"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/coolbrg/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/coooolbrg/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://twitter.com/coolbrg"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
-	<a href="https://www.instagram.com/cooolbrg/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/mentorbrg/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/mentorbrg/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://twitter.com/mentorbrg"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://www.instagram.com/mentorbrg/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
 </p>
